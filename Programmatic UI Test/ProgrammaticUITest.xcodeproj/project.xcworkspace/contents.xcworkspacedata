@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:Programmatic UI Test.xcodeproj">
+      location = "self:/Users/olimpiacompean/Documents/Programmatic UI Test/ProgrammaticUITest.xcodeproj">
    </FileRef>
 </Workspace>

@@ -23,7 +23,7 @@ let mainView = MainView()
 
 extension MainViewController: MainViewDelegate {
     func segueAction() {
-        let detailed = DetailedViewController.init(message: "Text field stuff goes here")
+        let detailed = DetailedViewController.init(message: mainView.inputedText.text!)
         navigationController?.pushViewController(detailed, animated: true)
     }
     

@@ -17,7 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		12A2AF1421FA6F3200BA0062 /* Programmatic UI Test.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Programmatic UI Test.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		12A2AF1421FA6F3200BA0062 /* ProgrammaticUITest.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ProgrammaticUITest.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		12A2AF1721FA6F3200BA0062 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		12A2AF1E21FA6F3500BA0062 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		12A2AF2121FA6F3500BA0062 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
@@ -50,7 +50,7 @@
 		12A2AF1521FA6F3200BA0062 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				12A2AF1421FA6F3200BA0062 /* Programmatic UI Test.app */,
+				12A2AF1421FA6F3200BA0062 /* ProgrammaticUITest.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -73,9 +73,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		12A2AF1321FA6F3200BA0062 /* Programmatic UI Test */ = {
+		12A2AF1321FA6F3200BA0062 /* ProgrammaticUITest */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 12A2AF2621FA6F3500BA0062 /* Build configuration list for PBXNativeTarget "Programmatic UI Test" */;
+			buildConfigurationList = 12A2AF2621FA6F3500BA0062 /* Build configuration list for PBXNativeTarget "ProgrammaticUITest" */;
 			buildPhases = (
 				12A2AF1021FA6F3200BA0062 /* Sources */,
 				12A2AF1121FA6F3200BA0062 /* Frameworks */,
@@ -85,9 +85,9 @@
 			);
 			dependencies = (
 			);
-			name = "Programmatic UI Test";
+			name = ProgrammaticUITest;
 			productName = "Programmatic UI Test";
-			productReference = 12A2AF1421FA6F3200BA0062 /* Programmatic UI Test.app */;
+			productReference = 12A2AF1421FA6F3200BA0062 /* ProgrammaticUITest.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -105,7 +105,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 12A2AF0F21FA6F3200BA0062 /* Build configuration list for PBXProject "Programmatic UI Test" */;
+			buildConfigurationList = 12A2AF0F21FA6F3200BA0062 /* Build configuration list for PBXProject "ProgrammaticUITest" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -118,7 +118,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				12A2AF1321FA6F3200BA0062 /* Programmatic UI Test */,
+				12A2AF1321FA6F3200BA0062 /* ProgrammaticUITest */,
 			);
 		};
 /* End PBXProject section */
@@ -317,7 +317,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		12A2AF0F21FA6F3200BA0062 /* Build configuration list for PBXProject "Programmatic UI Test" */ = {
+		12A2AF0F21FA6F3200BA0062 /* Build configuration list for PBXProject "ProgrammaticUITest" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				12A2AF2421FA6F3500BA0062 /* Debug */,
@@ -326,7 +326,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		12A2AF2621FA6F3500BA0062 /* Build configuration list for PBXNativeTarget "Programmatic UI Test" */ = {
+		12A2AF2621FA6F3500BA0062 /* Build configuration list for PBXNativeTarget "ProgrammaticUITest" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				12A2AF2721FA6F3500BA0062 /* Debug */,

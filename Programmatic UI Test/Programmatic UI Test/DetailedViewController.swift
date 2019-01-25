@@ -11,7 +11,7 @@ import UIKit
 class DetailedViewController: UIViewController {
 
     let detailedView = DetailedView()
-    
+    let mainViewIntance = MainView()
     override func viewDidLoad() {
         super.viewDidLoad()
         self.view.addSubview(detailedView)
@@ -21,6 +21,7 @@ class DetailedViewController: UIViewController {
     
     init(message: String) {
         super.init(nibName: nil, bundle: nil)
+    
         detailedView.labelToSet.text = message
     }
     
